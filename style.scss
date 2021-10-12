@@ -47,7 +47,7 @@
      
      .calculator {
          &__inner {
-             margin-top: 70px;
+             margin-top: 60px;
              h2 {
                  text-align: center;
              }
@@ -68,20 +68,9 @@
                  }
              }
          }
-         // &__select {
-         //     display: flex;
-         //     &__inner {
-         //         &__inner-select {
-         //             display: flex;
-         //             flex-direction: row;
-         //             justify-content: center;
-         //             align-items: center;
-         //         }
-         //     }
-         // }
          div {
              text-align: center;
-             margin-top: 90px;
+             margin-top: 70px;
          }
          &__button {
              width: 200px;
